@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import UseStateTest from './components/test/UseStateTest'
+import UseStateTest2 from './components/test/UseStateTest2'
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
         >
           Learn React
         </a>
+        <UseStateTest />
+        <UseStateTest2 />
       </header>
     </div>
   );
