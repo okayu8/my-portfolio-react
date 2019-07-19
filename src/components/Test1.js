@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
-import UseStateTest from './test/UseStateTest';
-import UseStateTest2 from './test/UseStateTest2';
-import UseEffectTest from './test/UseEffectTest';
+import UseStateTest from './test1/UseStateTest';
+import UseStateTest2 from './test1/UseStateTest2';
+import UseEffectTest from './test1/UseEffectTest';
 
 export default function Test1() {
     return (
